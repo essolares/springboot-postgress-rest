@@ -1,0 +1,5 @@
+com/essolares/rest/model/Person.class
+com/essolares/rest/dao/PersonDao.class
+com/essolares/rest/datasource/PostgresDatasource.class
+com/essolares/rest/RestApplication.class
+com/essolares/rest/service/PersonService.class
