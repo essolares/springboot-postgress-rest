@@ -1,9 +1,0 @@
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/model/Person.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/service/PersonService.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/datasource/PostgresDatasource.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/dao/PersonDataAccessService.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/RestApplication.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/dao/FakePersonDataAccessService.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/api/NotNull.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/api/PersonController.java
-/Users/edgar/Desktop/LEARNING SPRING/spring-rest/src/main/java/com/essolares/rest/dao/PersonDao.java
